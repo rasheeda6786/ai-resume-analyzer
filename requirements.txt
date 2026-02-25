@@ -1,11 +1,9 @@
 streamlit
+scikit-learn
 pandas
 numpy
-scikit-learn
-matplotlib
-seaborn
 plotly
 wordcloud
-nltk
-spacy
+matplotlib
 PyPDF2
+
